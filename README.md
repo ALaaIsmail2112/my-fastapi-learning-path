@@ -161,6 +161,8 @@ ALGORITHM=HS256
 ACCESS_TOKEN_EXPIRE_MINUTES=30
 DATABASE_URL=sqlite:///./blog.db
 ```
+<img width="1487" height="835" alt="image" src="https://github.com/user-attachments/assets/249f34f3-7b57-4b7b-af64-edc2973cdd49" />
+
 
 
 ## 🙏 Acknowledgments
@@ -182,3 +184,11 @@ This repository represents my hands-on learning experience with FastAPI, followi
 ⭐ **If you're also learning FastAPI, feel free to explore the code and see the progression from basic concepts to a full-featured application!**
 
 📧 **Questions or suggestions?** Feel free to open an issue or reach out!
+
+## 📫 Contact
+
+If you have any questions or want to collaborate, feel free to reach out to me:
+
+- ✉️ **Email:** [alaaismailmohamed144@gmail.com](mailto:alaaismailmohamed144@gmail.com)  
+- 🔗 **LinkedIn:** [Alaa Ismail](https://www.linkedin.com/in/alaa-ismail-b09493264)
+
