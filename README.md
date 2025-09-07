@@ -161,8 +161,6 @@ ALGORITHM=HS256
 ACCESS_TOKEN_EXPIRE_MINUTES=30
 DATABASE_URL=sqlite:///./blog.db
 ```
-<img width="1487" height="835" alt="image" src="https://github.com/user-attachments/assets/249f34f3-7b57-4b7b-af64-edc2973cdd49" />
-
 
 
 ## 🙏 Acknowledgments
@@ -170,6 +168,9 @@ DATABASE_URL=sqlite:///./blog.db
 - FastAPI documentation and community
 - SQLAlchemy team for the excellent ORM
 - JWT.io for token handling insights
+  
+<img width="1487" height="835" alt="image" src="https://github.com/user-attachments/assets/249f34f3-7b57-4b7b-af64-edc2973cdd49" />
+
 
 ## 📞 About This Learning Journey
 
